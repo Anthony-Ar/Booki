@@ -339,10 +339,10 @@ a.card img.lodging-img {
 
 /** Responsive : max-width 992 px **/
 @media (max-width: 992px) {
-
     header, main, footer {
         padding: 0 2em;
     }
+    
     .lodging {
         flex-direction: column;
     }
