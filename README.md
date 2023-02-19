@@ -1,8 +1,11 @@
 # Booki
 
-Projet n°3 : Booki
-Formation intégrateur web - OpenClassrooms
+Projet n°3 : Booki  
+Formation intégrateur web - OpenClassrooms  
+GitHub Pages : https://lost-somewhere.github.io/Booki/
 
-##### W3C
-:heavy_check_mark: HTML
+### W3C
+:heavy_check_mark: HTML  
 :heavy_check_mark: CSS
+
+![image](https://user-images.githubusercontent.com/112488355/219948043-83e13851-c756-493f-88da-19478fe479f1.png)
