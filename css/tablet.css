@@ -1,0 +1,36 @@
+/** Responsive : max-width 992 px **/
+@media (max-width: 992px) {
+    header, main, footer {
+        padding: 0 3em;
+    }
+    
+    .lodging {
+        flex-direction: column;
+    }
+
+    .lodging article p {
+        font-size: 13px;
+    }
+
+    .popular img {
+        min-width: 90px;
+    }
+
+    .large, .medium {
+        width: auto;
+    }
+
+    .medium {
+        margin: 4em 0 0;
+    }
+
+    .popular-grid {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-gap: 1.5em;
+    }
+
+    .activities a img {
+        height: 210px;
+    }
+}
